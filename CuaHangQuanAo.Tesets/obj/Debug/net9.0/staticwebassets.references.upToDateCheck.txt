@@ -1,0 +1,2 @@
+C:\Users\Windows\CuaHangProject\CuaHangQuanAo.API\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Windows\CuaHangProject\CuaHangQuanAo.API\obj\Debug\net9.0\staticwebassets.build.json
